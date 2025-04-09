@@ -4,11 +4,6 @@
 ### **3. Uber Rides Data Analysis**  
 *(Python + Pandas + Matplotlib)*  
 
-```markdown
-# Uber Rides Analysis  
-![Python] (https://img.shields.io/badge/Python-3.9%2B-blue)
-![Pandas] (https://img.shields.io/badge/Pandas-Data_Cleaning-red)
-![Matplotlib] (https://img.shields.io/badge/Matplotlib-Visualization-green)
 
 Analysis of 2014 Uber trip data to identify usage patterns and geographic hotspots.
 
