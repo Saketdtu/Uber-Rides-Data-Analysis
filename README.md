@@ -1,7 +1,7 @@
 
 ---
 
-### **3. Uber Rides Data Analysis**  
+### ** Uber Rides Data Analysis**  
 *(Python + Pandas + Matplotlib)*  
 
 
