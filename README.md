@@ -4,6 +4,8 @@
 ### ** Uber Rides Data Analysis**  
 *(Python + Pandas + Matplotlib)*  
 
+![Peak Hours](peak_hours.png)  
+
 
 Analysis of 2014 Uber trip data to identify usage patterns and geographic hotspots.
 
