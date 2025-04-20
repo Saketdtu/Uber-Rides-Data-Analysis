@@ -8,23 +8,19 @@
 Analysis of 2014 Uber trip data to identify usage patterns and geographic hotspots.
 
 ## Project Goal  
-To uncover operational insights through data cleaning and visualization of 500K+ Uber rides.
+Analyzed **500K+ Uber rides** in NYC (April 2014) to identify trends in peak hours, geographic hotspots, and weekday/weekend demand.
 
 ## Key Insights  
 - **Peak Hours**: 5 PM - 7 PM daily  
 - **Geographic Hotspots**: Manhattan dominance  
-- **April Trends**: 30% increase in weekend rides  
 
 ## Tools Used  
-- **Jupyter Notebook**: Interactive analysis  
 - **Pandas**: Data preprocessing  
 - **Matplotlib/Seaborn**: Visualization  
-- **Dataset**: Uber NYC pickup data (April 2014)  
+- **Dataset**: Uber NYC pickup data (April 2014) (Kaggle)
 
 ## How to Run  
-1. Install Jupyter:  
-   ```bash
-   pip install jupyter
-2. Launch notebook:
-   ```bash
-   jupyter notebook Uber_Analysis.ipynb
+1. Install dependencies:  
+   ```bash  
+   pip install pandas numpy matplotlib  
+
