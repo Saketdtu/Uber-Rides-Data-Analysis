@@ -5,6 +5,7 @@
 *(Python + Pandas + Matplotlib)*  
 
 ![Peak Hours](peak_hours.png)  
+![ride_frequency](ride_frequency_by_weekday.png)
 
 
 Analysis of 2014 Uber trip data to identify usage patterns and geographic hotspots.
